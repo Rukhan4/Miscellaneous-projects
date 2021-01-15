@@ -1,3 +1,3 @@
 # misc
 
-Contains various projects
+Contains various projects in Python
