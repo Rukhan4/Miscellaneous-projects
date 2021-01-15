@@ -1,5 +1,4 @@
 # Welcoming message
-#%%
 print('Welcome to the bmi calculator')
 user = str(input("What's your name?:"))
 print('\n')
@@ -45,4 +44,3 @@ while not unit:
         continue
     
 
-# %%
