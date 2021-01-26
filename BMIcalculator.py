@@ -37,7 +37,7 @@ while not unit:
         
         elif ( bmi >=30):
             print("You are severely overweight")
-            print("Suggestion: Maintain a greater caloric defiti of around 500 calories and consider HIIT training!")
+            print("Suggestion: Maintain a greater caloric deficit of around 500 calories and consider HIIT training!")
     else:
         print('Not in range of choices')
         unit = ''
