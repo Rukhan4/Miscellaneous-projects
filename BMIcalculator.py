@@ -40,7 +40,7 @@ while not unit:
             print("Suggestion: Maintain a greater caloric deficit of around 500 calories and consider HIIT training!")
     else:
         print('Not in range of choices')
-        unit = ''
+        unit = '' #declaring this within the scope of the loop allowing it to restart if an incorrect input is received 
         continue
     
 
