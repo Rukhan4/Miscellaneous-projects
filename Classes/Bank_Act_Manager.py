@@ -266,6 +266,5 @@ if __name__ == "__main__":
                     print("Please try again. \n")
 
         else:
-            print("Cannot find your record")
-            print("Please get your card.")
+            print("No record found")
             print("Exiting this session...")
