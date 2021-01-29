@@ -1,3 +1,7 @@
+"""
+Simple webscrape problem that uses quotes.toscrape.com and retrieves all the unique authors on the website
+"""
+
 import requests
 import bs4
 
