@@ -14,4 +14,3 @@ If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1
 
 **Palindrome** - Check if a word is equal to the reverse of itself
 
-**Simple_Webscrape** - Simple webscrape problem that uses quotes.toscrape.com and retrieves all the unique authors on the website
