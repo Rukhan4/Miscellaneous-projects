@@ -29,7 +29,7 @@ while not unit:
 
         elif (bmi >= 16 and bmi < 18.5):
             print("You are underweight")
-            print("Suggestion:Medium surplus of calories, less cardio and more strength training!")
+            print("Suggestion: Medium surplus of calories, less cardio and more strength training!")
 
         elif (bmi >= 18.5 and bmi < 25):
             print("You are Healthy")
