@@ -1,5 +1,3 @@
-# pass
-
 import requests
 import bs4
 

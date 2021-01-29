@@ -1,5 +1,7 @@
-# Simple calculator taking in user input to perform either addition, subtraction, multiplication or division
-# NB: subtraction does not return absolute value
+"""Simple calculator taking in user input to perform either addition, subtraction, multiplication or division
+NB: subtraction does not return absolute value
+"""
+
 
 def add(x, y):
     return x+y
@@ -23,7 +25,7 @@ print("2=Subtract")
 print("3=Multiply")
 print("4=Divide")
 
-while True:  # Validating user input and performing chosen operation5
+while True:  # Validating user input and performing chosen operation
     choice = input("What operation would you like to perform? Select 1,2,3 or 4: ")
     if choice in ('1', '2', '3', '4'):
         num1 = float(input("Enter first number: "))

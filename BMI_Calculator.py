@@ -1,3 +1,7 @@
+"""
+A BMI calculator that calculates your BMI in the chosen metric and provides advice based on the result
+"""
+
 # Welcoming message
 print('Welcome to the bmi calculator')
 user = str(input("What's your name?:"))

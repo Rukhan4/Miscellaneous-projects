@@ -1,5 +1,6 @@
-# Simple Coin flip that allows a user to flip a 2-sided coin a chosen amount of times and returns the number of heads and tails received.
-
+"""
+Simple Coin flip that allows a user to flip a 2-sided coin a chosen amount of times and returns the number of heads and tails received.
+"""
 import random
 
 

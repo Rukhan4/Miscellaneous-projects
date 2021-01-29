@@ -1,4 +1,8 @@
-# Check if a number is equal to the reverse of itself
+"""
+Check if a number is equal to the reverse of itself
+"""
+
+
 def palindrome(s):
     """A palindrome is a word, phrase, or sequence that reads the same backwards as forwards.
 
