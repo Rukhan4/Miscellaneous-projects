@@ -1,5 +1,5 @@
 """
-Check if a number is equal to the reverse of itself
+Check if a word is equal to the reverse of itself
 """
 
 
