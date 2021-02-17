@@ -25,7 +25,7 @@ class Product():
         Pass method as subtract to subtract the quantity]
 
         Args:
-            method (str, optional): [description]. Defaults to "add".
+            method (str, optional): Defaults to "add".
         """
         if method == "add":
             self.qty += qty
