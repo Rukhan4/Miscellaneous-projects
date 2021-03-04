@@ -32,12 +32,6 @@ class Product():
         elif method == "subtract":
             self.qty = max(0, self.qty-qty)
 
-    def print_product(self):
-        """
-        prints a single product.
-        """
-        print("%d\t%s\t%.02f each" % (self.pid, self.qty, self.price))
-
 
 class Inventory():
     def __init__(self):
