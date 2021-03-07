@@ -1,4 +1,4 @@
-# misc
+# Miscellaneous Projects
 Miscellaneous Python Projects!
 
 **BMI Calculator** - A BMI calculator that calculates your BMI in the chosen metric and provides advice based on the result
