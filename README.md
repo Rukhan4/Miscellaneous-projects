@@ -83,3 +83,4 @@ Course Introduction
 -Conditional Expressions and Procedures (CASE, COALESCE, CAST, NULLIF, VIEW, IMPORT/EXPORT)
 
 -PostGreSQL with Python & additional section exploring the documentation of PostGreSQL
+ 
