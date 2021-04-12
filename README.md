@@ -10,7 +10,7 @@ If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1
 
 **Palindrome** - Check if a word is equal to the reverse of itself
 
-## [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) Syllabus
+# [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) Syllabus
 
 -Setting up the Python Environment
 
@@ -57,7 +57,7 @@ If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1
 -Final Capstone Projects
 
 
-## [SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/) Syllabus
+# [SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/) Syllabus
 
 Course Introduction
 
