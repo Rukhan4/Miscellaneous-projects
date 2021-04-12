@@ -10,3 +10,6 @@ If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1
 
 **Palindrome** - Check if a word is equal to the reverse of itself
 
+## [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+
+## [SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/)
