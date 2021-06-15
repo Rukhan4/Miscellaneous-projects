@@ -1,8 +1,45 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+# [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) Syllabus
+
+-Setting up the Python Environment
+
+-Objects and Data Structures
+
+-Comparison Operators
+
+-Statements
+
+-Methods and Functions
+
+-Capstone 1 + Quiz 1
+
+-Object Oriented Programming
+
+-Modules and Packages
+
+-Errors and Exception Handling
+
+-Decorators
+
+-Generators
+
+-Advanced Python Modules (collections, sys, os, datetime, random, math, timeit, shutil, networkx)
+
+-Capstone 2 + Quiz 2
 
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+-Regular Expressions (re)
 
-Thanks!
+-Web scraping (beautifulsoup, requests)
+
+-Working with Images, PDFs and -Spreadsheet CSV files
+
+-Emails with Python
+
+-Capstone 3 + Final Quiz
+
+
+-Advanced Python Objects and Data Structures
+
+-Introduction to GUI
+
+-Final Capstone Projects
