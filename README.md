@@ -9,7 +9,7 @@
 **Collatz_Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process:
 If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1
 
-**Palindrome** - Check if a word is equal to the reverse of itself
+**Palindrome** - Takes user input and checks if the input is equal to the reverse of itself. Stores the amount of correct palindromes and returns it to the user at the end of the session
 
 ## Classes 
 
